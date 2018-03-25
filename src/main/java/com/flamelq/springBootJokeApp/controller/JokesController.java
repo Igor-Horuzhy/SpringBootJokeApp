@@ -6,10 +6,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-/**
- * Игорь
- * 3/25/2018.
- */
 @Controller
 public class JokesController {
 

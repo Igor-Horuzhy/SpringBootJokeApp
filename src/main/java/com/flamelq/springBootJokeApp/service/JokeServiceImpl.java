@@ -4,10 +4,6 @@ package com.flamelq.springBootJokeApp.service;
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;
 
-/**
- * Игорь
- * 3/25/2018.
- */
 @Service
 public class JokeServiceImpl implements JokeService {
 
